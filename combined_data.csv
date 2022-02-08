@@ -1,0 +1,380 @@
+participant,Stimulus,Type,the_font,key_resp.corr,key_resp.rt
+CL479,lamb,word,georgia,1,0.952188750001369
+CL479,babe,word,comic sans,1,1.0999000419978984
+CL479,memo,word,comic sans,1,1.0130626669997582
+CL479,gelp,non-word,comic sans,1,0.6764996669953689
+CL479,mist,word,comic sans,1,0.7226447499997448
+CL479,watt,word,georgia,1,0.955793333996553
+CL479,powl,non-word,comic sans,1,0.7306020830001216
+CL479,voar,non-word,georgia,1,1.457895291998284
+CL479,hawk,word,georgia,1,0.7075834580027731
+CL479,oath,word,georgia,1,0.7495410410047043
+CL479,vekd,non-word,georgia,1,0.6605119590094546
+CL479,tray,word,comic sans,1,0.6594832090049749
+CL479,tave,non-word,georgia,1,0.9157389999891166
+CL479,jets,word,comic sans,1,1.161739374991157
+CL479,otey,non-word,georgia,1,0.7811458750074962
+CL479,aged,word,georgia,1,0.9448159579915228
+CL479,runk,non-word,comic sans,1,0.9359874580113684
+CL479,soda,word,comic sans,1,0.5550886249984615
+CL479,cone,word,georgia,1,0.6382363330048975
+CL479,flut,non-word,georgia,1,0.6796757080010138
+CL479,vire,non-word,georgia,1,0.8372372919984628
+CL479,hilp,non-word,comic sans,1,1.446586208010558
+CL479,cial,non-word,georgia,1,0.878218999991077
+CL479,keen,word,georgia,1,0.5325088330137078
+CL479,chow,word,comic sans,1,1.041782250002143
+CL479,daxy,non-word,georgia,1,0.6010569169884548
+CL479,muin,non-word,georgia,1,0.7929895420093089
+CL479,taul,non-word,comic sans,1,0.9447982090059668
+CL479,mons,non-word,comic sans,1,0.6531376249913592
+CL479,flea,word,georgia,1,0.5637655000027735
+CL479,chep,non-word,comic sans,1,0.7251218750025146
+CL479,hesk,non-word,comic sans,1,0.7307761669944739
+CL479,heas,non-word,georgia,1,0.5903038329997798
+CL479,erks,non-word,comic sans,1,0.5903029580076691
+CL479,ebit,non-word,comic sans,1,0.7795180829998571
+CL479,bulb,word,comic sans,1,0.6977882920036791
+CL479,sore,word,comic sans,1,0.6623790419980651
+CL479,atom,word,georgia,1,0.7623113339941483
+CL479,ears,word,georgia,1,0.7144147090002662
+CL479,woke,word,comic sans,1,0.6312787080096314
+CL479,poet,word,georgia,1,0.6302474580006674
+CL479,gips,non-word,georgia,1,0.7931101249996573
+CL479,joet,non-word,georgia,1,0.6265379590040538
+CL479,wald,non-word,georgia,1,1.4428381250036182
+CL479,span,word,georgia,1,0.9952674999949522
+CL479,ture,non-word,comic sans,1,0.8216802910028491
+CL479,peam,non-word,georgia,1,1.189248458002112
+CL479,dash,word,georgia,1,0.7058385419950355
+CL479,juck,non-word,georgia,1,1.3410081670008367
+CL479,prop,word,comic sans,1,0.9003376250038855
+CL479,bets,word,comic sans,1,0.9049442090035882
+CL479,yell,word,comic sans,1,0.7494455000123708
+CL479,howl,word,comic sans,1,0.936340874992311
+CL479,lerm,non-word,georgia,1,0.6804916669934755
+CL479,fade,word,georgia,1,0.7342852909932844
+CL479,atus,non-word,comic sans,1,1.42644508300873
+CL479,buwl,non-word,comic sans,1,1.0316828329960115
+CL479,tent,word,comic sans,1,1.0548668340052243
+CL479,stem,word,georgia,1,0.7169232500018552
+CL479,abem,non-word,comic sans,1,0.6306328749924432
+CL479,bean,word,georgia,1,0.6783444580069045
+CL479,hers,word,georgia,1,0.6339420000003884
+CL479,hail,word,comic sans,1,0.6704754590027733
+CL479,faza,non-word,comic sans,1,0.6815869999991264
+CL479,gosh,word,comic sans,1,0.8256151250097901
+CL479,lace,word,comic sans,1,0.7023839579924243
+CL479,loth,non-word,comic sans,1,0.835267542002839
+CL479,gour,non-word,georgia,1,1.2702938339934915
+CL479,soan,non-word,georgia,1,1.0469740410044324
+CL479,sail,word,georgia,1,1.0311330830008956
+CL479,nets,word,georgia,1,0.7206612500012852
+CL479,coil,word,comic sans,1,0.7215412499936065
+CL479,plaw,non-word,comic sans,1,1.5457483749923997
+CL479,hond,non-word,comic sans,1,1.20725045799918
+DA682,atus,non-word,comic sans,1,1.0865507910002634
+DA682,daxy,non-word,georgia,1,0.7865825819990278
+DA682,loth,non-word,comic sans,1,1.4094797500001732
+DA682,woad,non-word,comic sans,1,1.3067382910012384
+DA682,spew,word,comic sans,1,0.8769622910003818
+DA682,jets,word,comic sans,1,0.8233435000001919
+DA682,fade,word,georgia,1,0.6786161660002108
+DA682,bulb,word,comic sans,1,0.6247784160004812
+DA682,lerm,non-word,georgia,1,0.77082024900119
+DA682,memo,word,comic sans,1,0.6986057499998424
+DA682,dash,word,georgia,1,1.1280024579991732
+DA682,cial,non-word,georgia,1,0.77069420800035
+DA682,bets,word,comic sans,1,0.7203707080007007
+DA682,erks,non-word,comic sans,1,0.8513447069999529
+DA682,mons,non-word,comic sans,1,1.317521832999773
+DA682,oath,word,georgia,1,0.7967645819990139
+DA682,hilp,non-word,comic sans,1,0.700676915999793
+DA682,watt,word,georgia,1,0.8412177490008617
+DA682,voar,non-word,georgia,1,1.138275123999847
+DA682,bean,word,georgia,1,0.7589266240011057
+DA682,hail,word,comic sans,1,1.3270321660002082
+DA682,atom,word,georgia,1,1.0177228740012652
+DA682,sail,word,georgia,1,1.0098749159988074
+DA682,hond,non-word,comic sans,1,0.7285947910004325
+DA682,cone,word,georgia,1,0.937039623999226
+DA682,tray,word,comic sans,1,0.734457458000179
+DA682,span,word,georgia,1,2.174432916001024
+DA682,peam,non-word,georgia,1,0.7433892909994029
+DA682,gour,non-word,georgia,1,0.7028795829992305
+DA682,abem,non-word,comic sans,1,0.6460118320010224
+DA682,tent,word,comic sans,1,0.6711846239995793
+DA682,joet,non-word,georgia,1,0.7584811249998893
+DA682,wald,non-word,georgia,1,0.6988086250003107
+DA682,runk,non-word,comic sans,1,1.220977832999779
+DA682,lamb,word,georgia,1,0.5921775410006376
+DA682,mist,word,comic sans,1,0.6582079990002967
+DA682,vekd,non-word,georgia,1,0.6219759989999147
+DA682,taul,non-word,comic sans,1,0.6370132070005639
+DA682,prop,word,comic sans,1,0.6645286660004786
+DA682,chep,non-word,comic sans,1,0.8942292069987161
+DA682,soda,word,comic sans,1,0.6309457079987624
+DA682,gelp,non-word,comic sans,1,0.7678398329990159
+DA682,faza,non-word,comic sans,1,0.7175122080006986
+DA682,hers,word,georgia,1,0.7520787909998035
+DA682,powl,non-word,comic sans,1,0.9898960829996212
+DA682,coil,word,comic sans,1,0.7734347490004438
+DA682,juck,non-word,georgia,1,0.8373179160007567
+DA682,ears,word,georgia,1,0.5381888749998325
+DA682,soan,non-word,georgia,1,0.6171875
+DA682,plaw,non-word,comic sans,1,0.7574536240008456
+DA682,gosh,word,comic sans,1,0.6070257909996144
+DA682,yarl,non-word,georgia,1,0.5616557499997725
+DA682,chow,word,comic sans,1,0.684174248999625
+DA682,tave,non-word,georgia,1,0.5993617909989553
+DA682,buwl,non-word,comic sans,1,0.5755372069997975
+DA682,muin,non-word,georgia,1,0.5534251660010341
+DA682,aged,word,georgia,1,0.6165692070007935
+DA682,lace,word,comic sans,1,0.7881965830001718
+DA682,heas,non-word,georgia,1,0.6401687500001572
+DA682,nets,word,georgia,1,0.7251033319989801
+DA682,gips,non-word,georgia,1,0.6500000830001227
+DA682,hesk,non-word,comic sans,1,1.2601760830002604
+DA682,sore,word,comic sans,1,0.6074381660000654
+DA682,flea,word,georgia,1,0.7915131249992555
+DA682,flut,non-word,georgia,1,0.7509409569993295
+DA682,babe,word,comic sans,1,0.6071005829999194
+DA682,vire,non-word,georgia,1,0.793169291000595
+DA682,bore,word,georgia,1,0.6701244579999184
+DA682,hawk,word,georgia,1,0.8701202499996725
+DA682,ebit,non-word,comic sans,1,0.6469566240011773
+DA682,keen,word,georgia,1,0.6109899989987753
+DA682,woke,word,comic sans,1,0.6711648740001692
+DA682,howl,word,comic sans,1,0.6995231660002901
+DA682,otey,non-word,georgia,1,0.5661524160004774
+DA682,yell,word,comic sans,1,0.7245152499999676
+DA682,poet,word,georgia,1,0.8401246660014294
+DA682,ture,non-word,comic sans,1,0.6129608330011251
+EL923,soan,non-word,georgia,1,1.107906166012981
+EL923,flut,non-word,georgia,1,1.7181505409971578
+EL923,hond,non-word,comic sans,1,1.222127041008207
+EL923,babe,word,comic sans,1,1.0094517069956055
+EL923,woad,non-word,comic sans,1,0.9517510820005556
+EL923,ebit,non-word,comic sans,1,0.7455584580020513
+EL923,wald,non-word,georgia,1,0.8981223739974666
+EL923,sail,word,georgia,1,1.1380371660052333
+EL923,gelp,non-word,comic sans,1,0.7573827909945976
+EL923,spew,word,comic sans,1,0.856687541003339
+EL923,span,word,georgia,1,1.176314625001396
+EL923,prop,word,comic sans,1,0.9380957080138614
+EL923,vire,non-word,georgia,1,0.9434003320056944
+EL923,poet,word,georgia,1,0.945587706999504
+EL923,chep,non-word,comic sans,1,0.8686049579991959
+EL923,lace,word,comic sans,1,1.1603554989997065
+EL923,joet,non-word,georgia,1,0.7127532489976147
+EL923,cone,word,georgia,1,0.9406012499966891
+EL923,bulb,word,comic sans,1,0.6621694570058025
+EL923,cial,non-word,georgia,1,0.6806356659944868
+EL923,vekd,non-word,georgia,1,0.7448923750052927
+EL923,tray,word,comic sans,1,0.7196775409975089
+EL923,mons,non-word,comic sans,1,0.8145591659995262
+EL923,fade,word,georgia,1,0.8537964569986798
+EL923,coil,word,comic sans,1,0.9881735410017428
+EL923,erks,non-word,comic sans,1,1.1156705830071587
+EL923,yell,word,comic sans,1,1.1701823329931358
+EL923,ears,word,georgia,1,1.0093444160011131
+EL923,juck,non-word,georgia,1,1.1822853319899878
+EL923,memo,word,comic sans,1,0.6708733330015093
+EL923,taul,non-word,comic sans,1,0.9327083329990272
+EL923,woke,word,comic sans,1,0.7643157910060836
+EL923,flea,word,georgia,1,0.8228938319953158
+EL923,voar,non-word,georgia,1,1.2557678739976836
+EL923,stem,word,georgia,1,0.742443749011727
+EL923,aged,word,georgia,1,0.6578864990005968
+EL923,faza,non-word,comic sans,1,0.8931712080084253
+EL923,jets,word,comic sans,1,0.7199940819991753
+EL923,bore,word,georgia,1,0.91616187398904
+EL923,buwl,non-word,comic sans,1,0.712678499010508
+EL923,sore,word,comic sans,1,0.81487424900115
+EL923,bean,word,georgia,1,1.1662989989999917
+EL923,hesk,non-word,comic sans,1,0.8722792909975396
+EL923,tent,word,comic sans,1,0.7079082910058787
+EL923,dash,word,georgia,1,0.792680291007855
+EL923,abem,non-word,comic sans,1,0.739605875001871
+EL923,lamb,word,georgia,1,0.7637588740035426
+EL923,daxy,non-word,georgia,1,0.8006942909996724
+EL923,hers,word,georgia,1,0.995531040985952
+EL923,keen,word,georgia,1,0.6801777910004603
+EL923,bets,word,comic sans,1,0.7702778329985449
+EL923,oath,word,georgia,1,0.8954432909958996
+EL923,hawk,word,georgia,1,0.8901134990010178
+EL923,heas,non-word,georgia,1,0.9291409160068724
+EL923,mist,word,comic sans,1,0.9498448320082388
+EL923,yarl,non-word,georgia,1,0.9106974160094978
+EL923,soda,word,comic sans,1,0.9684286239935318
+EL923,peam,non-word,georgia,1,0.9610671659902436
+EL923,tave,non-word,georgia,1,0.8284480409929529
+EL923,plaw,non-word,comic sans,1,0.8541446659946814
+EL923,gour,non-word,georgia,1,0.7893304579920368
+EL923,atus,non-word,comic sans,1,0.6375493740051752
+EL923,muin,non-word,georgia,1,0.6503082909912337
+EL923,otey,non-word,georgia,1,0.7264403320004931
+EL923,powl,non-word,comic sans,1,1.1820563329965807
+EL923,rine,non-word,comic sans,1,0.968468249993748
+EL923,loth,non-word,comic sans,1,1.0957009569974616
+EL923,hail,word,comic sans,1,0.6864251660008449
+EL923,runk,non-word,comic sans,1,0.7162922489951598
+EL923,lerm,non-word,georgia,1,0.6707513319997815
+EL923,hilp,non-word,comic sans,1,0.8670114570122678
+EL923,ture,non-word,comic sans,1,0.8067743739957223
+EL923,gosh,word,comic sans,1,0.6956624160084175
+EL923,atom,word,georgia,1,0.7731943739927374
+EL923,nets,word,georgia,1,0.98794279100548
+EL923,gips,non-word,georgia,1,0.99584187399887
+EU107,tray,word,comic sans,1,0.09462362399790436
+EU107,voar,non-word,georgia,1,2.2498114990012255
+EU107,mist,word,comic sans,1,0.7949810829886701
+EU107,abem,non-word,comic sans,1,0.7799266660003923
+EU107,vekd,non-word,georgia,1,0.8446377500076778
+EU107,faza,non-word,comic sans,1,0.6668894160247874
+EU107,lerm,non-word,georgia,1,0.7763261240033899
+EU107,yell,word,comic sans,1,0.757955998997204
+EU107,hail,word,comic sans,1,0.872999333019834
+EU107,erks,non-word,comic sans,1,0.7649230000097305
+EU107,keen,word,georgia,1,1.3760225000150967
+EU107,taul,non-word,comic sans,1,0.8671523749944754
+EU107,chow,word,comic sans,1,1.570531499979552
+EU107,hers,word,georgia,1,0.7634964160097297
+EU107,bulb,word,comic sans,1,0.6438942490203772
+EU107,watt,word,georgia,1,0.9506995829869992
+EU107,wald,non-word,georgia,1,1.6791925830184482
+EU107,bean,word,georgia,1,0.6403289159934502
+EU107,oath,word,georgia,1,0.7947581250045914
+EU107,soan,non-word,georgia,1,0.9564771250006744
+EU107,hond,non-word,comic sans,1,1.3396467909915373
+EU107,stem,word,georgia,1,0.7428355000156444
+EU107,ebit,non-word,comic sans,1,0.6972085410088766
+EU107,howl,word,comic sans,1,0.6530459579953458
+EU107,fade,word,georgia,1,1.4772412499878556
+EU107,gosh,word,comic sans,1,0.5275273330044001
+EU107,atom,word,georgia,1,0.9998151659965516
+EU107,flea,word,georgia,1,0.6375492500083055
+EU107,ture,non-word,comic sans,1,1.2743445000087377
+EU107,sail,word,georgia,1,1.2156872500199825
+EU107,bore,word,georgia,1,0.6447789989761077
+EU107,otey,non-word,georgia,1,0.7609146249887999
+EU107,muin,non-word,georgia,1,0.6846508749877103
+EU107,yarl,non-word,georgia,1,0.740693873987766
+EU107,gour,non-word,georgia,1,1.819569290993968
+EU107,aged,word,georgia,1,0.9663238739885855
+EU107,lamb,word,georgia,1,0.5826018750085495
+EU107,dash,word,georgia,1,0.605340417008847
+EU107,tent,word,comic sans,1,1.437904124992201
+EU107,rine,non-word,comic sans,1,1.1966855830105487
+EU107,lace,word,comic sans,1,0.915205540979514
+EU107,tave,non-word,georgia,1,0.881409417022951
+EU107,hesk,non-word,comic sans,1,0.7900775830203202
+EU107,prop,word,comic sans,1,0.6586763740051538
+EU107,coil,word,comic sans,1,0.7104995830159169
+EU107,chep,non-word,comic sans,1,0.9495234170171898
+EU107,memo,word,comic sans,1,0.7241978330130223
+EU107,buwl,non-word,comic sans,1,0.947162416006904
+EU107,atus,non-word,comic sans,1,0.915853208018234
+EU107,heas,non-word,georgia,1,0.74116083298577
+EU107,gips,non-word,georgia,1,0.9412689990131184
+EU107,vire,non-word,georgia,1,0.920903416001238
+EU107,hawk,word,georgia,1,0.8046285409945995
+EU107,soda,word,comic sans,1,0.6843802489747759
+EU107,juck,non-word,georgia,1,0.8377698330150452
+EU107,flut,non-word,georgia,1,0.9940709990041796
+EU107,sore,word,comic sans,1,0.785776332981186
+EU107,plaw,non-word,comic sans,1,1.4964305409812368
+EU107,woke,word,comic sans,1,0.6294733330141753
+EU107,mons,non-word,comic sans,1,1.1799588750000112
+EU107,poet,word,georgia,1,0.8927266669925302
+EU107,daxy,non-word,georgia,1,0.8111679170106072
+EU107,babe,word,comic sans,1,0.5900777500064578
+EU107,woad,non-word,comic sans,1,1.4505476240010466
+EU107,ears,word,georgia,1,0.6461680829816032
+EU107,jets,word,comic sans,1,0.575078998983372
+EU107,joet,non-word,georgia,1,1.2007410830119625
+EU107,peam,non-word,georgia,1,1.723652165994281
+EU107,hilp,non-word,comic sans,1,0.7414944990014192
+EU107,gelp,non-word,comic sans,1,0.8288464579964057
+EU107,runk,non-word,comic sans,1,0.5946359580266289
+EU107,bets,word,comic sans,1,0.7907782080001198
+EU107,cial,non-word,georgia,1,0.6260475830058567
+EU107,cone,word,georgia,1,0.8841004579735454
+EV468,flut,non-word,comic sans,1,1.7813847079996776
+EV468,daxy,non-word,comic sans,1,1.8014496659998256
+EV468,spew,word,georgia,1,0.7955414159996508
+EV468,rine,non-word,georgia,1,1.2124016660000052
+EV468,prop,word,georgia,1,0.7183142499998212
+EV468,fade,word,comic sans,1,0.6939859579997574
+EV468,chep,non-word,georgia,1,0.9461474989993804
+EV468,heas,non-word,comic sans,1,1.0233569160000116
+EV468,woke,word,georgia,1,0.8007783749999362
+EV468,stem,word,comic sans,1,1.1593618749993766
+EV468,atus,non-word,georgia,1,0.68213170800027
+EV468,vire,non-word,comic sans,1,0.9231273750001492
+EV468,lerm,non-word,comic sans,1,0.7785612500001662
+EV468,lamb,word,comic sans,1,0.7197955830006322
+EV468,mons,non-word,georgia,1,0.7092600420000963
+EV468,wald,non-word,comic sans,1,0.9010524160003116
+EV468,tent,word,georgia,1,1.3145809159996134
+EV468,watt,word,comic sans,1,1.2365405829996234
+EV468,gips,non-word,comic sans,1,0.7496542079998108
+EV468,abem,non-word,georgia,1,0.8536974170001486
+EV468,joet,non-word,comic sans,1,0.6552515419998599
+EV468,loth,non-word,georgia,1,0.7408812499998021
+EV468,hilp,non-word,georgia,1,1.0337049999998271
+EV468,jets,word,georgia,1,1.5959774580005617
+EV468,mist,word,georgia,1,0.8700724580003225
+EV468,runk,non-word,georgia,1,0.9321460000001024
+EV468,nets,word,comic sans,1,0.835526583000501
+EV468,buwl,non-word,georgia,1,0.9523117079997974
+EV468,bets,word,georgia,1,1.0655173739996826
+EV468,span,word,comic sans,1,0.8717886250005904
+EV468,faza,non-word,georgia,1,0.6967822910000905
+EV468,ebit,non-word,georgia,1,0.8851877500001137
+EV468,hond,non-word,georgia,1,1.264240833000258
+EV468,sail,word,comic sans,1,0.6932179579998774
+EV468,gosh,word,georgia,1,0.9878530830001182
+EV468,lace,word,georgia,1,0.9605542910003352
+EV468,babe,word,georgia,1,0.7920287079996342
+EV468,atom,word,comic sans,1,0.7733833330003108
+EV468,soan,non-word,comic sans,1,0.8371302079995075
+EV468,hawk,word,comic sans,1,0.7226474999997663
+EV468,flea,word,comic sans,1,0.9078837080005542
+EV468,taul,non-word,georgia,1,0.9844602080002004
+EV468,keen,word,comic sans,1,0.818720291000318
+EV468,peam,non-word,comic sans,1,0.7086122500004421
+EV468,oath,word,comic sans,1,0.968218957999852
+EV468,cial,non-word,comic sans,1,0.6986242499997388
+EV468,gelp,non-word,georgia,1,0.8789827920008975
+EV468,ture,non-word,georgia,1,0.748854792000202
+EV468,plaw,non-word,georgia,1,0.9168263330002446
+EV468,aged,word,comic sans,1,0.6801824579997628
+EV468,hesk,non-word,georgia,1,1.0545344580004894
+EV468,memo,word,georgia,1,0.677045540999643
+EV468,hers,word,comic sans,1,0.8408016239991412
+EV468,juck,non-word,comic sans,1,0.711095583000315
+EV468,muin,non-word,comic sans,1,0.6955854160005401
+EV468,dash,word,comic sans,1,0.7194137079995926
+EV468,gour,non-word,comic sans,1,0.7456690420003724
+EV468,bore,word,comic sans,1,0.7682207080006265
+EV468,howl,word,georgia,1,1.0350516669996068
+EV468,soda,word,georgia,1,0.5826361250001355
+EV468,yell,word,georgia,1,0.6369733329993323
+EV468,woad,non-word,georgia,1,0.6958484159995351
+EV468,tave,non-word,comic sans,1,0.8953537500001403
+EV468,erks,non-word,georgia,1,0.5994263739994494
+EV468,cone,word,comic sans,1,0.7168497490001755
+EV468,sore,word,georgia,1,0.7195130420004716
+EV468,tray,word,georgia,1,0.693006792000233
+EV468,voar,non-word,comic sans,1,0.7212986659997114
+EV468,hail,word,georgia,1,0.6620931669995116
+EV468,bulb,word,georgia,1,0.6564544580005531
+EV468,coil,word,georgia,1,0.881482166000751
+EV468,poet,word,comic sans,1,0.740168457999971
+EV468,bean,word,comic sans,1,0.7484570000005988
+EV468,powl,non-word,georgia,1,0.9706123750002008
+EV468,otey,non-word,comic sans,1,0.7668764579993876
+EV468,ears,word,comic sans,1,0.6602197910005998
+EV468,vekd,non-word,comic sans,1,0.7864407080005549
+EV468,yarl,non-word,comic sans,1,1.0257084989998475
